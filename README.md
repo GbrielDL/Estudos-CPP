@@ -1,2 +1,2 @@
 # Estudos_CPP
-
+Projetos e Revisões. Vou armazenar o que estou aprendendo em C++ neste repositório. Testes, Projetos, Revisões de estudo, etc...
