@@ -48,6 +48,7 @@ string LerString (const string& msg){
         for (char c : entrada){
             if (!isalpha(c) && c != ' '){
                 apenasLetras = false;
+                break;
             }
         }
 
